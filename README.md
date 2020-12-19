@@ -5,7 +5,7 @@ This is sample project for Employeement service using Spring Boot and MongoDB. I
 Prerequisites
 =============
 Install MondoDB-3.4.9 ( https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu )
-MongoDB support 64-bit machines only, it won't support 32-bit machines.
+MongoDB support 64-bit machines only, it will not support 32-bit machines.
 after install the MongoDB just start the Mongo service and run this application.
 
 Author
